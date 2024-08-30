@@ -1,4 +1,7 @@
 <p align=center>
   [ zero shoes | reborn tabaxi phantom rogue ]
 </p>
-<u> underlined text </u>
+character name: zero shoes<br>
+character race: reborn tabaxi<br>
+character class: rogue<br>
+character subclass: phantom
