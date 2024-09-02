@@ -1,4 +1,3 @@
-<p align=left>
 pathfinder 2e<br><br>
 bloodrager<br>
 cleric<br>
@@ -18,4 +17,3 @@ vigilante<br>
 warpriest<br>
 witch<br>
 vampire hunter
-</p>
