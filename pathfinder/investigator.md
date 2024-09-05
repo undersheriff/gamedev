@@ -1,4 +1,4 @@
 name:<br>
 ancestry: goblin<br>
-heritage: <br>
+heritage: razortooth<br>
 class: investigator
