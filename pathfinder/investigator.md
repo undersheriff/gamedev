@@ -1,4 +1,4 @@
 name:<br>
-ancestry: goblin<br>
-heritage: razortooth<br>
-class: investigator
+ancestry: kobold<br>
+heritage:<br>
+class: forensic medicine investigator
