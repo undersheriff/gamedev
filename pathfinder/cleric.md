@@ -1,4 +1,4 @@
 name:<br>
-ancestry:<br>
+ancestry:halfling<br>
 background:<br>
-class:
+class: warpriest cleric
