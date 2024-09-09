@@ -1,4 +1,4 @@
 [ name | ... ]<br>
 [ ancestry | goblin ]<br>
-[ background | ... ]<br>
-[ class | rogue ]
+[ background | razortooth ]<br>
+[ class | thief racket rogue ]
