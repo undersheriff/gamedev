@@ -1,4 +1,4 @@
 name: <br>
-ancestry: <br>
+ancestry: hobgoblin<br>
 heritage: <br>
-class: alchemist
+class: mutagenist alchemist
